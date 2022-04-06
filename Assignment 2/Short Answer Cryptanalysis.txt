@@ -1,0 +1,35 @@
+Matthew Yien
+11698797
+
+Question #1)
+Decode this simple monoalphabetic substitution cipher, which is the title of a book: 
+Cesare Cipher
+ACVLQDMZ
+
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+S T U V W X Y Z A B C D E F G H I J K L M N O P Q R
+
+A  C  V  L  Q  V  M  Z
+S  U  N  D  I  V  E  R
+
+Question #2—Decode the monoalphabetic substitution cipher in question2.txt.  The resulting 
+keyword is related to the keyword from question #1.
+
+S U N D I V E R A B C F L H J K Z M O P Q T W G Y X --> works to Decode on https://www.dcode.fr/monoalphabetic-substitution if you enter as the alphabet
+I J K D G L M N E O P Q R C S T U H A V B F W X Y Z --> Works with my algorithm made obtained by https://www.dcode.fr/frequency-analysis
+
+The keyword is UPLIFTWAR.
+
+Question #3—Decode this polyalphabetic cipher using the keyword from question2.txt. (The 
+cipher itself has a connection to the plaintext in question #2.) 
+
+Lewis Carol, Vignere Cypher
+YSFKFMEOE
+
+The answer is EDUCATION.
+
+Question #4—What is in the question4.txt file?  Use the keyword from question #3 to unzip 
+question4.zip.
+
+The keyword is THUNDERCASTLE.

@@ -1,0 +1,14 @@
+Done by: Matthew Yien
+         11698797
+Questions for password1.txt:
+1. How many entries are in the password file?
+1733 entries
+2. What is the most commonly used password?
+another
+3. Which user has the most failed login attempts?
+bennetta has failed 16 login attempts, I just kinda found 15 visually and then checked 16 using ctrl+f
+then checked the next 20 highest numbers using
+
+Questions for password2.txt:
+1. What is the salt that was added to each password?
+selective
